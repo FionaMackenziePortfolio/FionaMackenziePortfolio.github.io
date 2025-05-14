@@ -1,8 +1,7 @@
+# Fiona Mackenzie – Mechanical Engineering Portfolio
 <p align="center">
   <img src="fiona.png" alt="Fiona Mackenzie" width="200">
 </p>
-# Fiona Mackenzie – Mechanical Engineering Portfolio
-
 Welcome to my engineering portfolio! I’m a fourth-year Mechanical Engineering student nearing graduation, with a strong passion for problem-solving, analysis, and continuous learning. My work spans simulation, sustainability, and structural design, and I’m excited to contribute to innovative, real-world engineering challenges.
 
 ---
