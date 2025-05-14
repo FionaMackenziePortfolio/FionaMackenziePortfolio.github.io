@@ -1,21 +1,31 @@
-# 👋 Welcome to My Mechanical Engineering Portfolio
+# Fiona Mackenzie – Mechanical Engineering Portfolio
 
-Hi, I’m Fiona Mackenzie, a mechanical engineering graduate with a passion for CAD, FEA, and robotics. Here's a look at my work.
+Welcome to my engineering portfolio! I’m a fourth-year Mechanical Engineering student nearing graduation, with a strong passion for problem-solving, analysis, and continuous learning. My work spans simulation, sustainability, and structural design, and I’m excited to contribute to innovative, real-world engineering challenges.
+
+---
 
 ## 🔧 Projects
 
-### Electric Go-Kart Design (Capstone)
-- Designed frame using SolidWorks
-- Ran simulations in ANSYS
-- Team of 4, finished ahead of schedule
+### 🌱 Green Hydrogen for Transportation
+Investigated the use of green hydrogen as a clean energy source for the transport sector. Explored energy systems integration, environmental benefits, and infrastructure considerations. Focused on feasibility and scalability for future mobility solutions.
 
-### Thermal Simulation – Heat Sink Optimization
-- ANSYS Fluent simulation
-- 15% increase in thermal efficiency
+### 🌬️ CFD Analysis – Flow Around the Leaning Tower of Pisa  
+Used ANSYS Fluent to simulate and analyze air flow patterns around the iconic Leaning Tower of Pisa. Examined wake regions, pressure distributions, and turbulence intensity to better understand environmental loading on architectural structures.
 
-## 📄 Resume
-[Download Resume](https://link-to-your-resume.pdf)
+### 🚤 Capstone: Quag Hull Boat – Structural Stiffness Optimization  
+Designed and tested a redesigned hull structure to improve both torsional and lateral stiffness for a prototype watercraft. Applied FEA techniques and real-world testing to validate performance improvements. Collaborated in a 4-person team throughout the full design cycle.
 
-## 📫 Contact
-- Email: your.email@example.com  
-- [LinkedIn](https://linkedin.com/in/yourname)
+---
+
+## 📄 Resume  
+[Download My Resume](https://link-to-your-resume.pdf)
+
+---
+
+## 📫 Contact Me  
+- Email: fionamackenzie0827@gmail.com  
+- [LinkedIn](https://fiona-mackenzie-046216240/)
+- Cell: 289-885-6039
+---
+
+Thank you for visiting my portfolio!
