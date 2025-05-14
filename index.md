@@ -1,33 +1,46 @@
-# Fiona Mackenzie – Mechanical Engineering Portfolio
-
 <p align="center">
-  <img src="fiona.jpg" alt="Fiona Mackenzie" width="200">
+  <img src="fiona.jpg" alt="Fiona Mackenzie" width="200" style="border-radius: 50%; border: 2px solid white;">
 </p>
-Welcome to my engineering portfolio! I’m a fourth-year Mechanical Engineering student nearing graduation, with a strong passion for problem-solving, analysis, and continuous learning. My work spans simulation, sustainability, and structural design, and I’m excited to contribute to innovative, real-world engineering challenges.
+
+<h1 align="center">👋 Fiona Mackenzie</h1>
+<h3 align="center">Mechanical Engineering Portfolio</h3>
+
+---
+
+## 👩‍💻 About Me
+
+I’m a fourth-year Mechanical Engineering student nearing graduation, with a strong passion for **problem-solving**, **simulation**, and **continuous learning**. My work spans **sustainable energy**, **computational fluid dynamics**, and **structural design**. I'm eager to apply my skills to impactful, real-world challenges.
+
 ---
 
 ## 🔧 Projects
 
-### 🌱 Green Hydrogen for Transportation
-Investigated the use of green hydrogen as a clean energy source for the transport sector. Explored energy systems integration, environmental benefits, and infrastructure considerations. Focused on feasibility and scalability for future mobility solutions.
+### 🌱 Green Hydrogen for Transportation  
+Explored the use of green hydrogen as a clean energy source for the transport sector. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
+
+---
 
 ### 🌬️ CFD Analysis – Flow Around the Leaning Tower of Pisa  
-Used ANSYS Fluent to simulate and analyze air flow patterns around the iconic Leaning Tower of Pisa. Examined wake regions, pressure distributions, and turbulence intensity to better understand environmental loading on architectural structures.
-
-### 🚤 Capstone: Quag Hull Boat – Structural Stiffness Optimization  
-Designed and tested a redesigned hull structure to improve both torsional and lateral stiffness for a prototype watercraft. Applied FEA techniques and real-world testing to validate performance improvements. Collaborated in a 4-person team throughout the full design cycle.
+Used **ANSYS Fluent** to simulate airflow around the Leaning Tower of Pisa. Analyzed **wake regions**, **pressure differentials**, and **turbulence effects** to understand structural loading due to wind.
 
 ---
 
-## 📄 Resume  
-[Download My Resume](https://link-to-your-resume.pdf)
+### 🚤 Capstone: Quag Hull Boat – Stiffness Optimization  
+Redesigned a prototype hull to increase **torsional** and **lateral stiffness**. Applied **FEA techniques** and real-world testing to validate structural performance. Collaborated with a team throughout the design cycle.
 
 ---
 
-## 📫 Contact Me  
-- Email: fionamackenzie0827@gmail.com  
-- [LinkedIn](https://fiona-mackenzie-046216240/)
-- Cell: 289-885-6039
+## 📄 Resume
+
+[Download My Resume (PDF)](https://link-to-your-resume.pdf)
+
 ---
 
-Thank you for visiting my portfolio!
+## 📫 Contact Me
+
+- 📧 Email: your.email@example.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/yourname)
+
+---
+
+<p align="center">Thanks for visiting my portfolio!</p>
