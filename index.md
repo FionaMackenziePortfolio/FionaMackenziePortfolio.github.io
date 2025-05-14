@@ -2,7 +2,7 @@
 
 Welcome to my engineering portfolio! I’m a fourth-year Mechanical Engineering student nearing graduation, with a strong passion for problem-solving, analysis, and continuous learning. My work spans simulation, sustainability, and structural design, and I’m excited to contribute to innovative, real-world engineering challenges.
 <p align="center">
-  <img src="fiona.png" alt="Fiona Mackenzie" width="200">
+  <img src="fiona.jpg" alt="Fiona Mackenzie" width="200">
 </p>
 ---
 
