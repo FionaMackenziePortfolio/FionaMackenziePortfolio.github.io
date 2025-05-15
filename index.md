@@ -2,12 +2,12 @@
   <img src="fiona.jpg" alt="Fiona Mackenzie" width="200" style="border-radius: 50%; border: 2px solid white;">
 </p>
 
-<h1 align="center">👋 Fiona Mackenzie</h1>
+<h1 align="center"> Fiona Mackenzie</h1>
 <h3 align="center">Mechanical Engineering Portfolio</h3>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I’m a fourth-year Mechanical Engineering student nearing graduation, with a strong passion for **problem-solving**, **simulation**, and **continuous learning**. My work spans **sustainable energy**, **computational fluid dynamics**, and **structural design**. I'm eager to apply my skills to impactful, real-world challenges.
 
