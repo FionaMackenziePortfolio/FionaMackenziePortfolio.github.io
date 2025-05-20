@@ -3,29 +3,29 @@
 </p>
 
 <h1 align="center"> Fiona Mackenzie</h1>
-<h3 align="center">Mechanical Engineering Portfolio</h3>
+<h3 align="center">Mechanical and Materials Engineer</h3>
 
 ---
 
 ## About Me
 
-I’m a fourth-year Mechanical Engineering student nearing graduation, with a strong passion for **problem-solving**, **simulation**, and **continuous learning**. My work spans **sustainable energy**, **computational fluid dynamics**, and **structural design**. I'm eager to apply my skills to impactful, real-world challenges.
+I’m a fourth-year Mechanical and Materials Engineering student nearing graduation, with a strong passion for **problem-solving**, **mechanical systems**, and **continuous learning**. My experience involves **sustainable energy**, **computational fluid dynamics**, and **structural design**. I'm eager to apply my skills to impactful, real-world challenges.
 
 ---
 
 ## 🔧 Projects
 
-### 🌱 Green Hydrogen for Transportation  
+###  Green Hydrogen for Transportation  - 2022
 Explored the use of green hydrogen as a clean energy source for the transport sector. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
 
 ---
 
-### 🌬️ CFD Analysis – Flow Around the Leaning Tower of Pisa  
+###  CFD Analysis – Flow Around the Leaning Tower of Pisa  - 2024
 Used **ANSYS Fluent** to simulate airflow around the Leaning Tower of Pisa. Analyzed **wake regions**, **pressure differentials**, and **turbulence effects** to understand structural loading due to wind.
 
 ---
 
-### 🚤 Capstone: Quag Hull Boat – Stiffness Optimization  
+###  Capstone: Quag Hull Boat – Stiffness Optimization  - 2025
 Redesigned a prototype hull to increase **torsional** and **lateral stiffness**. Applied **FEA techniques** and real-world testing to validate structural performance. Collaborated with a team throughout the design cycle.
 
 ---
@@ -38,7 +38,7 @@ Redesigned a prototype hull to increase **torsional** and **lateral stiffness**.
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: fionamackenzie0827@gmail.com 
 - 🔗 [LinkedIn](https://linkedin.com/in/yourname)
 
 ---
