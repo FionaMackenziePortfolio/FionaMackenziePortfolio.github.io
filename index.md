@@ -16,12 +16,12 @@ I’m a fourth-year Mechanical and Materials Engineering student nearing graduat
 ## 🔧 Projects
 
 ###  Green Hydrogen for Transportation  - 2022
-Explored the use of green hydrogen as a clean energy source for the transport sector. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
+Explored the use of green hydrogen as a clean energy source and how it can be used for transportation in the future. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
 
 ---
 
 ###  CFD Analysis – Flow Around the Leaning Tower of Pisa  - 2024
-Used **ANSYS Fluent** to simulate airflow around the Leaning Tower of Pisa. Analyzed **wake regions**, **pressure differentials**, and **turbulence effects** to understand structural loading due to wind.
+Using **ANSYS Fluent** the airflow around the Leaning Tower of Pisa was simulated in both two-dimensional and three-dimensional analysis. Analyzed **wake regions**, **pressure differentials**, and **turbulence effects** to understand structural loading due to wind.
 
 ---
 
@@ -39,7 +39,7 @@ Redesigned a prototype hull to increase **torsional** and **lateral stiffness**.
 ## 📫 Contact Me
 
 - 📧 Email: fionamackenzie0827@gmail.com 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourname)
+- 🔗 [LinkedIn][(https://www.linkedin.com/in/fiona-mackenzie-046216240/)]
 
 ---
 
