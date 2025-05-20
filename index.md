@@ -17,16 +17,21 @@ I’m a fourth-year Mechanical and Materials Engineering student nearing graduat
 
 ###  Green Hydrogen for Transportation  - 2022
 Explored the use of green hydrogen as a clean energy source and how it can be used for transportation in the future. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
+**Presentation:**
 
 ---
 
 ###  CFD Analysis – Flow Around the Leaning Tower of Pisa  - 2024
-Using **ANSYS Fluent** the airflow around the Leaning Tower of Pisa was simulated in both two-dimensional and three-dimensional analysis. Analyzed **wake regions**, **pressure differentials**, and **turbulence effects** to understand structural loading due to wind.
+Using **ANSYS Fluent** the airflow around the Leaning Tower of Pisa was simulated in both two-dimensional and three-dimensional analysis, to understand structural loading due to wind. The air was applied to the structure at multiple velocities, in order to determine the pressure and viscosity forces
+acting on the building. From the forces determined in the 2D flow, the force coefficients were then calculated and compared to the Reynolds numbers. With the results from the 3D simulations, the 2D and 3D results are compared are discussed.
+**Project Report:**
 
 ---
 
 ###  Capstone: Quag Hull Boat – Stiffness Optimization  - 2025
-Redesigned a prototype hull to increase **torsional** and **lateral stiffness**. Applied **FEA techniques** and real-world testing to validate structural performance. Collaborated with a team throughout the design cycle.
+Fluidesign assigned us the task to create a prototype of their quad boat hull to increase **torsional** and **lateral stiffness**, with an adjustement to the dimensions and materials changes. This project consisted of three testing portions: First was the **vibration testing**, where the physical boat was hit with a rubber mallet, and the vibrations created were measured in different locations using a accelerometer, this testing provided us with the weak points along the hull. Next **FEA simulations** were performed using SolidWorks, where simulations of a row stroke where performed on a replicated version of the boat with new dimensions and new materials to ensure an increase in stiffness with finite element analysis. Finally, **material testing** was completed using carbon fiber samples and a three-point bend test to ensure the new materials increase stiffness.
+
+**Project Report:**
 
 ---
 
@@ -43,4 +48,4 @@ Redesigned a prototype hull to increase **torsional** and **lateral stiffness**.
 
 ---
 
-<p align="center">Thanks for visiting my portfolio!</p>
+<p align="center">Thank you for visiting my portfolio, please contact me if you have any further questions.</p>
