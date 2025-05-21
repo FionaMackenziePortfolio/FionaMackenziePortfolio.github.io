@@ -54,7 +54,7 @@ Download My Resume:
 ---
 
 ## Contact Me:
-
+  **Phone:** 289-885-6039
   **Email:** <a href="mailto:fionamackenzie0827@gmail.com">fionamackenzie0827@gmail.com</a> 
   
   **LinkedIn:** <a href="https://www.linkedin.com/in/fiona-mackenzie-046216240/" target="_blank">
