@@ -50,6 +50,7 @@ Download My Resume:
 <a href="FionaMackenzieResume.pdf" target="_blank">
   View My Resume
 </a>
+
 ---
 
 ## Contact Me:
