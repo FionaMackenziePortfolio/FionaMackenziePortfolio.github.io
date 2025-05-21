@@ -59,7 +59,7 @@ Download My Resume:
   **Email:** <a href="mailto:fionamackenzie0827@gmail.com">fionamackenzie0827@gmail.com</a> 
   
   **LinkedIn:** <a href="https://www.linkedin.com/in/fiona-mackenzie-046216240/" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
+  <i class="fab fa-linkedin"></i> fiona-mackenzie
 </a>
 
 ---
