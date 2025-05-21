@@ -26,14 +26,12 @@ For this project I was able to explore the use of green hydrogen as a clean ener
 ---
 
 ###  CFD Analysis – Flow Around the Leaning Tower of Pisa  - 2024
-Using **ANSYS Fluent** the airflow around the Leaning Tower of Pisa was simulated in both two-dimensional and three-dimensional analysis, to understand structural loading due to wind. The air was applied to the structure at multiple velocities, in order to determine the pressure and viscosity forces
-acting on the building. From the forces determined in the 2D flow, the force coefficients were then calculated and compared to the Reynolds numbers. With the results from the 3D simulations, the 2D and 3D results are compared are discussed.
+Throught this project **ANSYS Fluent** was used to mimic the airflow around the Leaning Tower of Pisa. this was was simulated in both two-dimensional and three-dimensional analysis, to understand the structural loading due to wind. The air was applied to the structure at multiple velocities, in order to determine the pressure and viscosity forces acting on the building. From the forces determined in the 2D flow, the force coefficients were then calculated and compared to the Reynolds numbers. With the results from the 3D simulations, the 2D and 3D results are compared are discussed.
 
 **Project Report:** 
 <a href="PisaTower.pdf" target="_blank">
   View PisaTower PDF
 </a>
-
 
 ---
 
