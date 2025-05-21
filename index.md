@@ -46,8 +46,7 @@ Fluidesign assigned us the task to create a prototype of their quad boat hull to
 ---
 
 ##  Resume
-
-**Download My Resume:** 
+Download My Resume:
 <a href="FionaMackenzieResume.PDF" target="_blank">
   View My Resume
 </a>
