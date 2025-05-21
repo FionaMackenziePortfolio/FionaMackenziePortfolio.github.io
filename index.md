@@ -63,4 +63,4 @@ Fluidesign assigned us the task to create a prototype of their quad boat hull to
 
 ---
 
-<p align="center"> **Thank you for visiting my portfolio, please contact me if you have any further questions.** </p>
+<p align="center"> Thank you for visiting my portfolio, please contact me if you have any further questions. </p>
