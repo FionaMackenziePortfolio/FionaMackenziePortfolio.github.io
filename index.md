@@ -48,17 +48,18 @@ Fluidesign assigned us the task to create a prototype of their quad boat hull to
 
 ##  Resume
 
-📄[Download My Resume (PDF)](https://link-to-your-resume.pdf)
+📄**Download My Resume:** (https://link-to-your-resume.pdf)
 
 ---
 
 ## Contact Me
 
   **Email:** <a href="mailto:fionamackenzie0827@gmail.com">fionamackenzie0827@gmail.com</a> 
+  
   **LinkedIn:** <a href="https://www.linkedin.com/in/fiona-mackenzie-046216240/" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
 
 ---
 
-<p align="center">Thank you for visiting my portfolio, please contact me if you have any further questions.</p>
+<p align="center"> **Thank you for visiting my portfolio, please contact me if you have any further questions.** </p>
