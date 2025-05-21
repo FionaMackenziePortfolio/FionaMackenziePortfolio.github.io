@@ -16,7 +16,7 @@ I’m a fourth-year Mechanical and Materials Engineering student nearing graduat
 ## Projects
 
 ###  Green Hydrogen for Transportation  - 2022
-Explored the use of green hydrogen as a clean energy source and how it can be used for transportation in the future. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
+For this project I was able to explore the use of green hydrogen as a clean energy source and I studied how it can be used for transportation in the future. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
 
 **Project Report:**
 <a href="Green Hydrogen.pdf" target="_blank">
