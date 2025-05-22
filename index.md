@@ -15,8 +15,8 @@ I’m a fourth-year Mechanical and Materials Engineering student nearing graduat
 
 ## Projects
 
-###  Green Hydrogen for Transportation  - 2022
-For this project I was able to explore the use of green hydrogen as a clean energy source and I studied how it can be used for transportation in the future. Focused on **energy systems integration**, environmental impact, and infrastructure feasibility.
+###  Green Hydrogen: Fuel For Transportation  - 2022
+Green hydrogen presents a promising sustainable fuel alternative, especially for the transportation sector—a major contributor to carbon emissions. Unlike brown, grey, or blue hydrogen, which involve fossil fuels and release harmful byproducts, green hydrogen is produced via water electrolysis powered by renewable energy, resulting in zero toxic emissions. One of its key advantages is that it emits only water vapor when used as fuel. However, challenges remain, particularly in developing efficient and safe onboard storage systems for vehicles. These limitations highlight the need for continued research in advanced materials and tank design.
 
 **Project Report:**
 <a href="Green Hydrogen.pdf" target="_blank">
