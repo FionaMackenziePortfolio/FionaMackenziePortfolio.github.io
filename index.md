@@ -35,7 +35,7 @@ Using ANSYS Fluent, I conducted a computational fluid dynamics (CFD) study to an
 
 ---
 
-###  Capstone: Quag Hull Boat – Stiffness Optimization  - 2025
+###  Capstone: Quad Hull Boat – Stiffness Optimization  - 2025
 Fluidesign assigned my team and I the task to create a prototype of their quad boat hull to increase **torsional** and **lateral stiffness**, with an adjustement to the dimensions and materials changes. This project consisted of three testing portions: First was the **vibration testing**, where the physical boat was hit with a rubber mallet, and the vibrations created were measured in different locations using a accelerometer, this testing provided us with the weak points along the hull. Next **FEA simulations** were performed using SolidWorks, where simulations of a row stroke where performed on a replicated version of the boat with new dimensions and new materials to ensure an increase in stiffness with finite element analysis. Finally, **material testing** was completed using carbon fiber samples and a three-point bend test to ensure the new materials increase stiffness.
 
 **Project Report:**
