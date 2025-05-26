@@ -47,7 +47,7 @@ Fluidesign assigned my team and I the task to create a prototype of their quad b
 
 ##  Resume
 Download My Resume:
-<a href="FionaMackenzieResume.pdf" target="_blank">
+<a href="Fiona Mackenzie.pdf" target="_blank">
   View My Resume
 </a>
 
