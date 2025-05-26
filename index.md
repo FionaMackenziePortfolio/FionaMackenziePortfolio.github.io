@@ -9,7 +9,7 @@
 
 ## About Me
 
-I’m a fourth-year Mechanical and Materials Engineering student nearing graduation, with a strong passion for **problem-solving**, **mechanical systems**, and **continuous learning**. My experience involves **sustainable energy**, **computational fluid dynamics**, and **structural design**. I'm eager to apply my skills to impactful, real-world challenges.
+I’m a fourth-year Mechanical and Materials Engineering student nearing graduation, driven by a passion for problem-solving, mechanical systems, and lifelong learning. My core skills include **CAD**, **computational fluid dynamics (CFD)**, and **mechanical design**. I take pride in applying analytical thinking to real-world engineering challenges and continuously seeking opportunities to expand my knowledge. I’m eager to contribute to the mechanical engineering industry and grow as a professional through hands-on experience and collaboration.
 
 ---
 
