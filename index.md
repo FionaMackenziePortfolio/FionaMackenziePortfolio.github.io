@@ -9,18 +9,18 @@
 
 ## About Me
 
-I’m a fourth-year Mechanical and Materials Engineering student nearing graduation, driven by a passion for problem-solving, mechanical systems, and lifelong learning. My core skills include **CAD**, **computational fluid dynamics (CFD)**, and **mechanical design**. I take pride in applying analytical thinking to real-world engineering challenges and continuously seeking opportunities to expand my knowledge. I’m eager to contribute to the mechanical engineering industry and grow as a professional through hands-on experience and collaboration.
+I am a fourth-year Mechanical and Materials Engineering student nearing graduation, driven by a passion for problem-solving, mechanical systems, and lifelong learning. My core skills include **CAD**, **computational fluid dynamics (CFD)**, and **mechanical design**. I take pride in applying analytical thinking to real-world engineering challenges and continuously seeking opportunities to expand my knowledge. I’m eager to contribute to the mechanical engineering industry and grow as a professional through hands-on experience and collaboration.
 
 ---
 
 ## Projects
 
-###  Green Hydrogen: Fuel For Transportation  - 2022
-Green hydrogen presents a promising sustainable fuel alternative, especially for the transportation sector—a major contributor to carbon emissions. Unlike brown, grey, or blue hydrogen, which involve fossil fuels and release harmful byproducts, green hydrogen is produced via water electrolysis powered by renewable energy, resulting in zero toxic emissions. One of its key advantages is that it emits only water vapor when used as fuel. However, challenges remain, particularly in developing efficient and safe onboard storage systems for vehicles. These limitations highlight the need for continued research in advanced materials and tank design.
+###  Capstone: Quad Hull Boat – Stiffness Optimization  - 2025
+Fluidesign assigned my team and I the task to create a prototype of their quad boat hull to increase **torsional** and **lateral stiffness**, with an adjustement to the dimensions and materials changes. This project consisted of three testing portions: First was the **vibration testing**, where the physical boat was hit with a rubber mallet, and the vibrations created were measured in different locations using a accelerometer, this testing provided us with the weak points along the hull. Next **FEA simulations** were performed using SolidWorks, where simulations of a row stroke where performed on a replicated version of the boat with new dimensions and new materials to ensure an increase in stiffness with finite element analysis. Finally, **material testing** was completed using carbon fiber samples and a three-point bend test to ensure the new materials increase stiffness.
 
 **Project Report:**
-<a href="Green Hydrogen.pdf" target="_blank">
-  View Green Hydrogen PDF
+<a href="QuadHullStiffness.pdf" target="_blank">
+  View QuadHullStiffness PDF
 </a>
 
 ---
@@ -35,13 +35,14 @@ Using ANSYS Fluent, I conducted a computational fluid dynamics (CFD) study to an
 
 ---
 
-###  Capstone: Quad Hull Boat – Stiffness Optimization  - 2025
-Fluidesign assigned my team and I the task to create a prototype of their quad boat hull to increase **torsional** and **lateral stiffness**, with an adjustement to the dimensions and materials changes. This project consisted of three testing portions: First was the **vibration testing**, where the physical boat was hit with a rubber mallet, and the vibrations created were measured in different locations using a accelerometer, this testing provided us with the weak points along the hull. Next **FEA simulations** were performed using SolidWorks, where simulations of a row stroke where performed on a replicated version of the boat with new dimensions and new materials to ensure an increase in stiffness with finite element analysis. Finally, **material testing** was completed using carbon fiber samples and a three-point bend test to ensure the new materials increase stiffness.
+###  Green Hydrogen: Fuel For Transportation  - 2022
+Green hydrogen presents a promising sustainable fuel alternative, especially for the transportation sector—a major contributor to carbon emissions. Unlike brown, grey, or blue hydrogen, which involve fossil fuels and release harmful byproducts, green hydrogen is produced via water electrolysis powered by renewable energy, resulting in zero toxic emissions. One of its key advantages is that it emits only water vapor when used as fuel. However, challenges remain, particularly in developing efficient and safe onboard storage systems for vehicles. These limitations highlight the need for continued research in advanced materials and tank design.
 
 **Project Report:**
-<a href="QuadHullStiffness.pdf" target="_blank">
-  View QuadHullStiffness PDF
+<a href="Green Hydrogen.pdf" target="_blank">
+  View Green Hydrogen PDF
 </a>
+
 
 ---
 
