@@ -9,7 +9,7 @@
 
 ## About Me
 
-As a fourth-year Mechanical and Materials Engineering student nearing graduation, I am driven by a passion for problem-solving, mechanical systems, and lifelong learning. My core skills include **CAD**, **computational fluid dynamics (CFD)**, and **mechanical design**. I take pride in applying analytical thinking to real-world engineering challenges and continuously seeking opportunities to expand my knowledge. I’m eager to contribute to the mechanical engineering industry and grow as a professional through hands-on experience and collaboration.
+As a fourth-year Mechanical and Materials Engineering student nearing graduation, I am driven by a passion for problem-solving, mechanical systems, and lifelong learning. My core skills include **SolidWorks (CAD)**, **computational fluid dynamics (CFD)**, and **mechanical design**. I take pride in applying analytical thinking to real-world engineering challenges and continuously seeking opportunities to expand my knowledge. I’m eager to contribute to the mechanical engineering industry and grow as a professional through hands-on experience and collaboration.
 
 ---
 
