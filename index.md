@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a Mechanical and Materials Engineer with a strong passion for problem-solving, mechanical systems, and continuous learning. My core competencies include **Computer-Aided Design (CAD)**, **Computational Fluid Dynamics (CFD)**, and **mechanical system design**. I thrive on tackling real-world engineering challenges, and I am continuously seeking opportunities to expand my technical skills and knowledge. I am eager to contribute to the mechanical engineering industry and grow through hands-on experience and teamwork.
+I am a recent graduate from Mechanical Engineering with a strong passion for problem-solving, mechanical systems, and continuous learning. My core competencies include **Computer-Aided Design (CAD)**, **Computational Fluid Dynamics (CFD)**, and **mechanical system design**. I thrive on tackling real-world engineering challenges, and I am continuously seeking opportunities to expand my technical skills and knowledge. I am eager to contribute to the mechanical engineering industry and grow through hands-on experience and teamwork.
 
 ---
 
