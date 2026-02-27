@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Fiona Mackenzie</h1>
-<h3 align="center">Mechanical and Materials Engineer</h3>
+<h3 align="center">Mechanical Engineering Graduate</h3>
 
 ---
 
