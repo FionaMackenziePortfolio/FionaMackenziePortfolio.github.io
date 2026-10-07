@@ -48,7 +48,7 @@ Green hydrogen presents a promising sustainable fuel alternative, especially for
 
 ##  Resume
 Download My Resume:
-<a href="FionaMackenzie.Resume.pdf" target="_blank">
+<a href="Fiona Mackenzie 2026 (1).pdf" target="_blank">
   View My Resume
 </a>
 
