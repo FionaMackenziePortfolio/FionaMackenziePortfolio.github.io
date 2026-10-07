@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a Mechanical Engineering graduate from Western University with a strong passion for problem-solving, mechanical systems, and continuous learning. Over the past year I had the opportunity to work in for DuBois Chemicals in Vancouver, British Colombia where I gained valuable experience and learned many new skills. My main tasks included Mechanical equipment design, physical system testing and AutoCAD 3D modeling. My core competencies include **Computer-Aided Design (CAD)**, **Computational Fluid Dynamics (CFD)**, and **mechanical system design**. I thrive on tackling real-world engineering challenges, and I am continuously seeking opportunities to expand my technical skills and knowledge. I am eager to contribute to the mechanical engineering industry and grow through hands-on experience and teamwork.
+I am a Mechanical Engineering graduate from Western University with a strong passion for problem-solving, mechanical systems, and continuous learning. Over the past year I had the opportunity to work for DuBois Chemicals in Vancouver, British Colombia where I gained valuable experience and learned many new skills. My main tasks in this position included Mechanical equipment design, physical system testing and AutoCAD 3D modeling. My core competencies include **Computer-Aided Design (CAD)**, **Computational Fluid Dynamics (CFD)**, and **mechanical system design**. I thrive on tackling real-world engineering challenges, and I am continuously seeking opportunities to expand my technical skills and knowledge. I am eager to contribute to the mechanical engineering industry and grow through hands-on experience and teamwork.
 
 ---
 
